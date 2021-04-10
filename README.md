@@ -11,4 +11,4 @@ The most widely known member of the Runge–Kutta family is generally referred t
 
 We're using this method here.
 
-
+#### Use ``g++ main.cpp class.cpp -o main && ./main`` to run.
