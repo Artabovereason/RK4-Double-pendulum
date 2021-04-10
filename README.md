@@ -14,4 +14,5 @@ We're using this method here.
 #### Use ``g++ main.cpp class.cpp -o main && ./main`` to run.
 
 The output gif is :
+
 ![](https://i.imgur.com/WVeYofyl.gif)
